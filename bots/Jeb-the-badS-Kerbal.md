@@ -12,5 +12,7 @@
 
 - Owner: `Henrikkoh#3344`
 
+- Made In: [Bot Designer for Discord](https://botdesignerlist.com)
+
 ### Description
 Multipurpose KSP bot for fun and moderation. Capabilities include flare function, strike, ticketing (WIP), role adding and removal, and welcome system. Plus some fun commands, such as #opinion. More general Commands coming up. For custom commands, simply add bot to server and DM me details.
