@@ -12,7 +12,7 @@
 
 - Owner: `Sam54#1979`
 
-- Made in: `Bot Designer for Discord`
+- Made in: [Bot Designer for Discord](https://botdesignerdiscord.com)
 
 ### Description
 A bot with : Moderation , fun , utility , images , announcements , economy , memes and more! This bot will help you in your server
