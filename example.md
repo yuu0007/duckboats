@@ -3,6 +3,8 @@
 
 **Your short description here.**
 
+[Invite Example Bot!](https://google.com)
+
 ### Information
 - Prefix: `your prefix here`
 
