@@ -12,6 +12,8 @@
 
 - Owner: `Kubaturi#6969`
 
+- Made In: [Bot Designer For Discord](https://botdesignerdiscord.com)
+
 ### Description
 Global Tradings is a global user interface bot where people can have their own shops and create new items. As this bot is still under developement we have many new features on their way! To protect users safety while using the bot, we've add a feature where users can be banned from using the bot for breaking any rules such as harmful speech towards one another, cheating, taking advantage of exploits and more! Bots updates can be tracked and seen when ever and where ever! As more features are added, more possibilities will be added too. Users can trade with other users for their items!
 
