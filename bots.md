@@ -9,5 +9,7 @@
 
 - [OXYGEN Bot](https://duckboats.tk/OXYGEN-Bot)
 
+- [Shinobu](https://duckboats.tk/Shinobu)
+
 ### discord.py
 - [Bake & Earn](https://duckboats.tk/bots/Bake-&-Earn)
