@@ -1,15 +1,15 @@
 # List of Bots
 
 ### Bot Designer for Discord
-- [Jeb the badS Kerbal](https://duckboats.tk/Jeb-the-badS-Kerbal)
+- [Jeb the badS Kerbal](https://duckboats.tk/bots/Jeb-the-badS-Kerbal)
 
-- [Global Tradings](https://duckboats.tk/Global-Tradings)
+- [Global Tradings](https://duckboats.tk/bots/Global-Tradings)
 
-- [Simba](https://duckboats.tk/Simba)
+- [Simba](https://duckboats.tk/bots/Simba)
 
-- [OXYGEN Bot](https://duckboats.tk/OXYGEN-Bot)
+- [OXYGEN Bot](https://duckboats.tk/bots/OXYGEN-Bot)
 
-- [Shinobu](https://duckboats.tk/Shinobu)
+- [Shinobu](https://duckboats.tk/bots/Shinobu)
 
 ### discord.py
 - [Bake & Earn](https://duckboats.tk/bots/Bake-&-Earn)
